@@ -126,9 +126,9 @@ The 4mm bottom plate ensures a clean BB.
 
 Here is an excerpt of the BB in 3.5" / 1204:
 
-![JeNo Fit Blackbox roll](./images/JeNoFit_BB_Roll.png)
-![JeNo Fit Blackbox pitch](./images/JeNoFit_BB_Pitch.png)
-![JeNo Fit Blackbox yaw](./images/JeNoFit_BB_Yaw.png)
+![JeNo Fit Blackbox roll](./images/JeNoFit_BB_Roll.jpg)
+![JeNo Fit Blackbox pitch](./images/JeNoFit_BB_Pitch.jpg)
+![JeNo Fit Blackbox yaw](./images/JeNoFit_BB_Yaw.jpg)
 
 ## Sturdiness
 The build is **lighter** than a standard JeNo 3. The **bottom is shorter** but still **4mm** thick, so we’re not concerned about the frame's durability. Remember to grab the arm protection from the [JeNo 3"](https://github.com/WE-are-FPV/JeNo-3-3.5) if you're doing bando.
