@@ -4,7 +4,7 @@
 
 ![JeNo Fit](./images/JeNoFit_FrontBuild.jpg)
 
-# JeNo Fit 2.5"
+# JeNo Fit 3 and 3.5"
 ***3 and 3.5" drone FPV frame compatible with Air Unit O4 Lite (or any Nano camera), designed for Freestyle, Freeride, bando and Cinematic.***
 
 > [!NOTE]
