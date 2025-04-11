@@ -111,7 +111,7 @@ Several strategies are available to you:
   * **1204 = 24g** motors
 
 | 1204 | 1404 | 1604 |
-| :---: | :---: |
+| :---: | :---: | :---: |
 | ![1204 motor](./images/JeNoFit_1204.jpg) | ![1404 motor](./images/JeNoFit_1404.jpg) | ![1604 motor](./images/JeNoFit_1604.jpg) |
 | 6.9gr (incl cable) | 9.3gr (incl cable) | 11.6gr (incl cable) |
 
