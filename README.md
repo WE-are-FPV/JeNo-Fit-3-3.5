@@ -94,7 +94,7 @@ For builds using a Naked Vista, it is recommended to tape the underside of the t
 
 AiO with vertical USB: (AiO rotated 90°)
 
-![JeNo Fit, RX options](./images/JeNoFit_Cut.png)
+![JeNo Fit, RX options](./images/JeNoFit_Cut.jpg)
 
 | 3" Naked Vista build | 3.5" O4 "light" build |
 | :---: | :---: |
