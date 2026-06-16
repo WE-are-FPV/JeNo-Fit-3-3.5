@@ -171,6 +171,8 @@ If you want to view the DXF file with all annotations, we recommend using the fr
 
 ![JeNo Fit, cut](./images/JeNoFit_Cut.jpg)
 
+The JeNo Fit 3/3.5" is available at [FPV CNC Drone](https://fpvcncdrone.com/).
+
 Unlike the 3 and 5" JeNos, the JeNo Fit won't be available in shops.
 
 The ["01-FRAME"](https://github.com/WE-are-FPV/JeNo-Fit-3-3.5/tree/main/01-FRAME) folder contains all the files you need to get it **cut**. .DXF and .STEP files are available.
